@@ -1,0 +1,17 @@
+{
+  "name": "javascript-builder-and-factorymethod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startFactory": "node indexFactory.js",
+    "startBuilder": "node indexBuilder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "typescript": "^4.5.4"
+  }
+}
