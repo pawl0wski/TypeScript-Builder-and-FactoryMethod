@@ -1,5 +1,5 @@
-# TypeScript Builder and FactoryMethod
-This projects shows implementation of Builder and Factory Method design patterns.
+# TypeScript builder and factory method
+This projects shows implementation of builder and factory method design patterns.
 
 ## How to run
 ### Installing dependencies
